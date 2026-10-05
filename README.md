@@ -1,7 +1,7 @@
 # Hi there, I’m Carolina 👋
 
 🎓 **Master's Student & Data Analyst**  
-I’m currently pursuing a master’s degree in Production Engineering at [Unicamp](https://www.unicamp.br/), and I work in the energy sector as a Data Analyst. My journey is driven by curiosity and a passion for transforming data into insights!
+I’m  a master’s degree in Production Engineering at [Unicamp](https://www.unicamp.br/), and I work in the energy sector as a Data Analyst. My journey is driven by curiosity and a passion for transforming data into insights!
 
 ---
 
